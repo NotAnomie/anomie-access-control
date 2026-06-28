@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updatedUtc": "2026-06-28T22:55:01Z",
+  "updatedUtc": "2026-06-28T23:03:15Z",
   "enforceIntegrity": false,
   "mods": [
     {
       "pluginGuid": "anomie.orbitallance.msvrelay",
       "displayName": "Anomie Orbital Lance MSV Relay",
       "version": "0.12.34",
-      "sha256": "a731b612b44c79c23d971ed6c49d31a13abf2918417a4a191572365aa0aba79b",
+      "sha256": "fb470d3ea8281bcfb2b4b7f1c7bef04b1fe6b9facdc3db1c440b8fc7e1a4f6d8",
       "groups": [
         "anomie",
         "anomie.orbitallance",
