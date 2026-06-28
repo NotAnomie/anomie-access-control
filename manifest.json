@@ -1,21 +1,7 @@
 {
   "version": 1,
-  "updatedUtc": "2026-06-28T21:51:57Z",
+  "updatedUtc": "2026-06-28T22:02:24Z",
   "enforceIntegrity": false,
-  "mods": [
-    {
-      "pluginGuid": "anomie.orbitallance.msvrelay",
-      "displayName": "Anomie Orbital Lance MSV Relay",
-      "version": "0.12.34",
-      "sha256": "7e677f4620e88464694b49428055ef2db6ab7752c49e0ea4130ad47fa91da2dd",
-      "groups": [
-        "anomie",
-        "anomie.orbitallance",
-        "anomie.orbitallance.msvrelay"
-      ],
-      "assemblyName": "OrbitalLanceProject",
-      "fileName": "OrbitalLanceProject.dll"
-    }
-  ],
+  "mods": [],
   "signature": ""
 }
