@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedUtc": "2026-06-28T22:12:09Z",
+  "updatedUtc": "2026-06-28T22:19:21Z",
   "bans": [
     {
       "id": "76561199607678050",
@@ -9,9 +9,7 @@
         "76561199607678050"
       ],
       "publishers": [],
-      "groups": [
-        "anomie"
-      ],
+      "groups": [],
       "mods": [],
       "reason": "Access revoked",
       "onlineAction": "block"
