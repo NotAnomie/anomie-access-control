@@ -1,19 +1,6 @@
 {
   "version": 1,
-  "updatedUtc": "2026-06-28T22:52:12Z",
-  "bans": [
-    {
-      "id": "765611996076780500",
-      "steamId": "765611996076780500",
-      "steamIds": [
-        "765611996076780500"
-      ],
-      "publishers": [],
-      "groups": [],
-      "mods": [],
-      "reason": "Access revoked",
-      "onlineAction": "block"
-    }
-  ],
+  "updatedUtc": "2026-06-28T22:55:02Z",
+  "bans": [],
   "signature": ""
 }
