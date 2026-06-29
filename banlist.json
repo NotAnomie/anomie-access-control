@@ -1,6 +1,22 @@
 {
   "version": 1,
-  "updatedUtc": "2026-06-29T11:05:44.3635658Z",
-  "bans": [],
+  "updatedUtc": "2026-06-29T11:05:57.0810144Z",
+  "bans": [
+    {
+      "id": "76561199607678050",
+      "steamId": "76561199607678050",
+      "steamIds": [],
+      "publishers": [
+        "anomie"
+      ],
+      "groups": [],
+      "mods": [],
+      "reason": "I am god :3",
+      "onlineAction": "block",
+      "note": "",
+      "createdUtc": "2026-06-29T11:05:57.0762854Z",
+      "updatedUtc": "2026-06-29T11:05:57.0762885Z"
+    }
+  ],
   "signature": ""
 }
