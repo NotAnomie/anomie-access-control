@@ -1,20 +1,21 @@
 {
   "version": 1,
-  "updatedUtc": "2026-06-29T10:59:43.2992219Z",
+  "updatedUtc": "2026-06-29T11:05:15.8195551Z",
   "bans": [
     {
       "id": "76561199607678050",
       "steamId": "76561199607678050",
-      "steamIds": [
-        "76561199607678050"
-      ],
-      "publishers": [],
-      "groups": [
+      "steamIds": [],
+      "publishers": [
         "anomie"
       ],
+      "groups": [],
       "mods": [],
-      "reason": "Access revoked",
-      "onlineAction": "block"
+      "reason": "I am god :3",
+      "onlineAction": "block",
+      "note": "",
+      "createdUtc": "2026-06-29T11:05:15.8106243Z",
+      "updatedUtc": "2026-06-29T11:05:15.8106421Z"
     }
   ],
   "signature": ""
