@@ -1,6 +1,22 @@
 {
   "version": 1,
-  "updatedUtc": "2026-06-30T13:51:17.6156689Z",
-  "bans": [],
+  "updatedUtc": "2026-06-30T13:51:25.6791512Z",
+  "bans": [
+    {
+      "id": "76561199607678050",
+      "steamId": "76561199607678050",
+      "steamIds": [],
+      "publishers": [
+        "anomie"
+      ],
+      "groups": [],
+      "mods": [],
+      "reason": "Access Revoked",
+      "onlineAction": "block",
+      "note": "Me",
+      "createdUtc": "2026-06-29T11:05:57.0762854Z",
+      "updatedUtc": "2026-06-30T13:51:25.6677178Z"
+    }
+  ],
   "signature": ""
 }
