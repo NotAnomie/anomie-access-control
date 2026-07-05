@@ -1,8 +1,25 @@
 {
   "version": 1,
-  "updatedUtc": "2026-07-05T21:52:55.1569943Z",
+  "updatedUtc": "2026-07-05T22:03:14.5959880Z",
   "whitelistOnly": true,
   "whitelist": [
+    {
+      "id": "76561198135505890",
+      "steamId": "76561198135505890",
+      "steamIds": [
+        "76561198135505890"
+      ],
+      "publishers": [
+        "anomie"
+      ],
+      "groups": [],
+      "mods": [],
+      "reason": "Whitelisted",
+      "onlineAction": "allow",
+      "note": "sinofsloth007\r\n\r\nUID DC\r\n1094070900615290880",
+      "createdUtc": "2026-07-05T22:03:09.9338666Z",
+      "updatedUtc": "2026-07-05T22:03:09.9341319Z"
+    },
     {
       "id": "76561198753130329",
       "steamId": "76561198753130329",
