@@ -1,12 +1,31 @@
 {
   "version": 1,
-  "updatedUtc": "2026-07-05T18:04:51.7862262Z",
+  "updatedUtc": "2026-07-05T18:30:29.7650849Z",
   "whitelistOnly": true,
   "whitelist": [
     {
+      "id": "76561199509246936",
+      "steamId": "76561199509246936",
+      "steamIds": [
+        "76561199509246936"
+      ],
+      "publishers": [
+        "anomie"
+      ],
+      "groups": [],
+      "mods": [],
+      "reason": "Whitelisted",
+      "onlineAction": "allow",
+      "note": "prosto_chel_hz",
+      "createdUtc": "2026-07-05T18:29:44.3468345Z",
+      "updatedUtc": "2026-07-05T18:29:55.4498704Z"
+    },
+    {
       "id": "76561199607678050",
       "steamId": "76561199607678050",
-      "steamIds": [],
+      "steamIds": [
+        "76561199607678050"
+      ],
       "publishers": [
         "anomie"
       ],
@@ -16,7 +35,7 @@
       "onlineAction": "allow",
       "note": "Me",
       "createdUtc": "2026-06-29T11:05:57.0762854Z",
-      "updatedUtc": "2026-07-05T18:04:41.7091910Z"
+      "updatedUtc": "2026-07-05T18:28:40.6847169Z"
     }
   ],
   "signature": ""
