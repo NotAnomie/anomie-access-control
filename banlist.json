@@ -1,24 +1,6 @@
 {
   "version": 1,
-  "updatedUtc": "2026-07-05T21:45:15.2943041Z",
-  "bans": [
-    {
-      "id": "76561199465741006",
-      "steamId": "76561199465741006",
-      "steamIds": [
-        "76561199465741006"
-      ],
-      "publishers": [
-        "anomie"
-      ],
-      "groups": [],
-      "mods": [],
-      "reason": "Access revoked",
-      "onlineAction": "block",
-      "note": "duzumyfr13nd\r\n\r\nUID DC\r\n1017999803155763242",
-      "createdUtc": "2026-07-05T20:58:16.5158761Z",
-      "updatedUtc": "2026-07-05T21:43:39.5713027Z"
-    }
-  ],
+  "updatedUtc": "2026-07-05T21:52:55.1569931Z",
+  "bans": [],
   "signature": ""
 }
