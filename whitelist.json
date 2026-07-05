@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "updatedUtc": "2026-07-05T18:04:51.7862262Z",
+  "whitelistOnly": true,
+  "whitelist": [
+    {
+      "id": "76561199607678050",
+      "steamId": "76561199607678050",
+      "steamIds": [],
+      "publishers": [
+        "anomie"
+      ],
+      "groups": [],
+      "mods": [],
+      "reason": "Whitelisted",
+      "onlineAction": "allow",
+      "note": "Me",
+      "createdUtc": "2026-06-29T11:05:57.0762854Z",
+      "updatedUtc": "2026-07-05T18:04:41.7091910Z"
+    }
+  ],
+  "signature": ""
+}
