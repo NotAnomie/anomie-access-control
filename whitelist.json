@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedUtc": "2026-07-05T18:35:30.6773690Z",
+  "updatedUtc": "2026-07-05T18:49:08.8750577Z",
   "whitelistOnly": true,
   "whitelist": [
     {
@@ -19,6 +19,23 @@
       "note": "lors.zip\r\n\r\nUID DC\r\n966473766991441920",
       "createdUtc": "2026-07-05T18:34:18.7441897Z",
       "updatedUtc": "2026-07-05T18:34:18.7444742Z"
+    },
+    {
+      "id": "76561199175546475",
+      "steamId": "76561199175546475",
+      "steamIds": [
+        "76561199175546475"
+      ],
+      "publishers": [
+        "anomie"
+      ],
+      "groups": [],
+      "mods": [],
+      "reason": "Whitelisted",
+      "onlineAction": "allow",
+      "note": "imnotgayipromise69\r\n\r\nUID DC 900576204225146950",
+      "createdUtc": "2026-07-05T18:48:09.9655068Z",
+      "updatedUtc": "2026-07-05T18:48:09.9657123Z"
     },
     {
       "id": "76561199509246936",
