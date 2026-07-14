@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedUtc": "2026-07-14T11:26:37.6229096Z",
+  "updatedUtc": "2026-07-14T11:27:30.9893616Z",
   "whitelistOnly": true,
   "whitelist": [
     {
@@ -18,7 +18,7 @@
       "onlineAction": "allow",
       "note": "Me",
       "createdUtc": "2026-06-29T11:05:57.0762854Z",
-      "updatedUtc": "2026-07-05T18:28:40.6847169Z"
+      "updatedUtc": "2026-07-14T11:27:29.0458971Z"
     }
   ],
   "signature": ""
